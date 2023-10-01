@@ -1,2 +1,2 @@
 # Bash-ciphers
-Bash Text Encryption and Decryption Scripts
+Bash Encryption and Decryption Scripts
